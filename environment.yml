@@ -1,0 +1,15 @@
+name: social_classification
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - seaborn
+  - scipy
+  - notebook
+  - openpyxl
+  - xlrd
